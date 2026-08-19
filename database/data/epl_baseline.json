@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Arsenal",
+    "short_code": "ARS",
+    "players": [
+      { "first_name": "Bukayo", "last_name": "Saka", "position": "MID", "cost_cents": 1000 },
+      { "first_name": "Martin", "last_name": "Odegaard", "position": "MID", "cost_cents": 850 },
+      { "first_name": "William", "last_name": "Saliba", "position": "DEF", "cost_cents": 550 },
+      { "first_name": "Declan", "last_name": "Rice", "position": "MID", "cost_cents": 650 },
+      { "first_name": "Gabriel", "last_name": "Magalhaes", "position": "DEF", "cost_cents": 500 },
+      { "first_name": "Kai", "last_name": "Havertz", "position": "FWD", "cost_cents": 800 },
+      { "first_name": "David", "last_name": "Raya", "position": "GK", "cost_cents": 500 }
+    ]
+  },
+  {
+    "name": "Manchester City",
+    "short_code": "MCI",
+    "players": [
+      { "first_name": "Erling", "last_name": "Haaland", "position": "FWD", "cost_cents": 1400 },
+      { "first_name": "Kevin", "last_name": "De Bruyne", "position": "MID", "cost_cents": 1050 },
+      { "first_name": "Phil", "last_name": "Foden", "position": "MID", "cost_cents": 950 },
+      { "first_name": "Rodri", "last_name": "Hernandez", "position": "MID", "cost_cents": 650 },
+      { "first_name": "Ruben", "last_name": "Dias", "position": "DEF", "cost_cents": 550 },
+      { "first_name": "Ederson", "last_name": "Moraes", "position": "GK", "cost_cents": 550 }
+    ]
+  },
+  {
+    "name": "Liverpool",
+    "short_code": "LIV",
+    "players": [
+      { "first_name": "Mohamed", "last_name": "Salah", "position": "MID", "cost_cents": 1250 },
+      { "first_name": "Trent", "last_name": "Alexander-Arnold", "position": "DEF", "cost_cents": 700 },
+      { "first_name": "Virgil", "last_name": "van Dijk", "position": "DEF", "cost_cents": 600 },
+      { "first_name": "Alisson", "last_name": "Becker", "position": "GK", "cost_cents": 550 },
+      { "first_name": "Darwin", "last_name": "Nunez", "position": "FWD", "cost_cents": 750 },
+      { "first_name": "Alexis", "last_name": "Mac Allister", "position": "MID", "cost_cents": 650 }
+    ]
+  },
+  {
+    "name": "Chelsea",
+    "short_code": "CHE",
+    "players": [
+      { "first_name": "Cole", "last_name": "Palmer", "position": "MID", "cost_cents": 1050 },
+      { "first_name": "Nicolas", "last_name": "Jackson", "position": "FWD", "cost_cents": 750 },
+      { "first_name": "Enzo", "last_name": "Fernandez", "position": "MID", "cost_cents": 600 },
+      { "first_name": "Malo", "last_name": "Gusto", "position": "DEF", "cost_cents": 500 },
+      { "first_name": "Robert", "last_name": "Sanchez", "position": "GK", "cost_cents": 450 }
+    ]
+  },
+  {
+    "name": "Manchester United",
+    "short_code": "MUN",
+    "players": [
+      { "first_name": "Bruno", "last_name": "Fernandes", "position": "MID", "cost_cents": 850 },
+      { "first_name": "Marcus", "last_name": "Rashford", "position": "MID", "cost_cents": 700 },
+      { "first_name": "Alejandro", "last_name": "Garnacho", "position": "MID", "cost_cents": 650 },
+      { "first_name": "Rasmus", "last_name": "Hojlund", "position": "FWD", "cost_cents": 700 },
+      { "first_name": "Diogo", "last_name": "Dalot", "position": "DEF", "cost_cents": 500 },
+      { "first_name": "Andre", "last_name": "Onana", "position": "GK", "cost_cents": 500 }
+    ]
+  },
+  {
+    "name": "Tottenham Hotspur",
+    "short_code": "TOT",
+    "players": [
+      { "first_name": "Son", "last_name": "Heung-min", "position": "MID", "cost_cents": 1000 },
+      { "first_name": "James", "last_name": "Maddison", "position": "MID", "cost_cents": 750 },
+      { "first_name": "Pedro", "last_name": "Porro", "position": "DEF", "cost_cents": 550 },
+      { "first_name": "Cristian", "last_name": "Romero", "position": "DEF", "cost_cents": 500 },
+      { "first_name": "Dominic", "last_name": "Solanke", "position": "FWD", "cost_cents": 750 },
+      { "first_name": "Guglielmo", "last_name": "Vicario", "position": "GK", "cost_cents": 500 }
+    ]
+  }
+]
